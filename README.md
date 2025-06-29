@@ -19,7 +19,7 @@ Each record represents one of 24 unique demographic groups. A record includes in
 Exploratory Data Analysis reveals that Urban-Suburban students, and disadvantaged populations (Migrant, English Language Learners, Foster Care, and Homeless) are all at a higher risk of dropping out and contributes to a low linear relationship. Furthermore groups with a higher enrollment count are less likely to drop out. 
 
 ### Statistical Interpretation
-Linear Regression Summary reveals the effect of features (key drivers listed below) and that they are statistically significant using the standard 95% confidence interval and also supporting our null hypothesis.
+Linear Regression Summary reveals the effect of features (key drivers listed below) and that they are statistically significant using the standard 95% confidence interval.
 
 - The Migrant demographic increases the Dropout percent by 24% when compared to the "All Students" demographic.
 - The "English Language Learner" demographic increases the Dropout percent by 10% when compared to the "All Students" demographic.
