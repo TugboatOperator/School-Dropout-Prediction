@@ -1,0 +1,40 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Jupyter Notebook hidden files
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# MLflow artifacts
+mlruns/
+mlartifacts/
+
+# Data files
+*.xlsx
+*.parquet
+*.json
+*.db
+
+# Large models or checkpoints
+*.pkl
+*.h5
+*.joblib
+
+# Logs and outputs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.env/
